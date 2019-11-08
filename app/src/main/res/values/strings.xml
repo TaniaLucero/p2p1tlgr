@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">p6tlgr</string>
+    <string name="titulo">MANEJO DE RADIOBUTTONS Y CHECKBOX</string>
+    <string name="titulo2">Seleccione una carrera...</string>
+    <string name="titulo3">Uso del Internet</string>
+    <string name="r1">ISC</string>
+    <string name="r2">ITICS</string>
+    <string name="r3">Ingenieria Ambiental</string>
+    <string name="r4">Gastronomia</string>
+    <string name="c1">Casa</string>
+    <string name="c2">Trabajo</string>
+    <string name="c3">Escuela</string>
+    <string name="b1">MENSAJE</string>
+    <string name="titulo4">Seleccionaste</string>
+
+
+</resources>
